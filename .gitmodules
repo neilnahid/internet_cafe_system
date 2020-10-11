@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:neilnahid/ICS_server.git
+[submodule "client_app"]
+	path = client_app
+	url = git@github.com:neilnahid/ICS_client_app.git
+[submodule "web_app"]
+	path = web_app
+	url = git@github.com:neilnahid/ICS_web_app.git

@@ -1,0 +1,15 @@
+{
+  "name": "internet_cafe_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:client": "cd client_app && npm run dev",
+    "dev:server": "cd server && npm run dev",
+    "dev:web": "cd web_app && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
